@@ -1,5 +1,5 @@
 // import Header from "./components/header/Header";
-import People from "./components/People/People";
+import People from "./components/people/People";
 
 const App = () => {
   return (
